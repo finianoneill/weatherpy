@@ -4,7 +4,7 @@ Whether financial, political, or social -- data's true power lies in its ability
 
 Now, I know what you may be thinking: _"Duh. It gets hotter..."_
 
-But, if pressed, how that assertion be **proved**?
+But, if pressed, how can that assertion be **proved**?
 
 ![Equator](Images/equatorsign.png)
 
